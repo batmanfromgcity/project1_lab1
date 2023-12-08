@@ -4,7 +4,7 @@ from gui import VoteGUI
 if __name__ == "__main__":
     root = tk.Tk()
     root.title("Voting System")
-    root.geometry("250x250")
+    root.geometry("400x400")
     root.resizable(False, False)
     root.config(bg="red")
 
